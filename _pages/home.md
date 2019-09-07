@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stock Market Jumps"
+title: ""
 author_profile: true
 ---
 
